@@ -11,7 +11,7 @@ Here you'll find _batch_ scripts which I wrote for fun, learning purposes, or pe
 
 ---
 
-## Computer Command Center – `ccc.bat`
+## [Computer Command Center](https://github.com/daviox/old-stuff/blob/main/ccc.bat) – `ccc.bat`
 
 This one goes far back to 2012, my first *bigger*, publicly avaliable project. 14-year old me tought it'd be cool to integrate a bunch of useful commandline tools into one script. I also used this as an opportunity to learn batch scripting in general. First version was written on Windows XP PC.
 
