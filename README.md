@@ -17,7 +17,7 @@ This one goes far back to 2012, my first *bigger*, publicly avaliable project. 1
 
 Firstly published on (now closed) polish forum, focused on retro operating systems (DOS, 3.11, 9x), scripting and programming.
 
-Originaly lost due to system failure and lack of backups (Remember to do yours).
+Originally lost due to system failure and lack of backups (Remember to do yours).
 
 Huge shoutout to **kotsai**, the admin of previously mentioned forum, who recovered the original binary from his own forum backup and sent me the files immediately after I've decided to contact him via e-mail about it. 10 years after I lost the files.
 
